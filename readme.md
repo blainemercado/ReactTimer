@@ -1,1 +1,1 @@
-Boilerplate React App
+# Timer App using React, by Wayne Adams
