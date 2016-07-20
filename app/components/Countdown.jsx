@@ -12,9 +12,10 @@ var Countdown = React.createClass({
     });
   },
   render: function(){
+    var {count} = this.state;
     return (
       <div>
-        <Clock totalSeconds={this.state.count}/>
+        <Clock totalSeconds={count}/>
         <CountdownForm onSetCountdown={this.handleSetCountDown}/>
       </div>
     )

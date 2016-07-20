@@ -2,7 +2,7 @@
   "name": "boilerplate",
   "version": "1.0.0",
   "description": "Simple React App",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "karma start",
     "start": "node server.js"
