@@ -1,1 +1,1 @@
-# Timer App using React, by Wayne Adams
+# Timer App using React, by Wayne Adams & Blaine
